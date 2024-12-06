@@ -159,7 +159,7 @@
                 <button id="chatbot-close">
                     <img src="https://res.cloudinary.com/hevo/image/upload/v1732688360/close_uldhpd.svg" alt="Close" />
                 </button>
-                <iframe id="chatbot-iframe" src="https://hevo-ai-bot.streamlit.app/?embed=true&embed_options=light_theme"></iframe>
+                <iframe id="chatbot-iframe" src="https://hevo-bot.streamlit.app/?embed=true&embed_options=light_theme"></iframe>
             `;
             document.body.appendChild(chatbotContainer);
 
